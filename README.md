@@ -10,4 +10,6 @@
 
 최종 모델 파이프라인 구성도
 
+---
+
 ![pipeline](https://github.com/10mm-notebook/2023-2-ComputerVision/assets/141313910/1d7195b8-2da0-4b42-96a2-204536c3903b)
